@@ -1,2 +1,2 @@
 "# PointCNN-Hand" 
-We will upload the test code of PointCNN-Hand between September and Octorber
+We will upload the testing code and weight of PointCNN-Hand between September and Octorber
